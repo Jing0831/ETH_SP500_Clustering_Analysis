@@ -6,11 +6,13 @@
 
 **Presentation:** [`My Presentation for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Presentation_JY.pdf)   
 
-**Report:**[`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)
+**Report:** 
+           [`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)
+         + [`Further Hotelling Test in R.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/ce8c56e0816115e6e1902d1a868ae8265e312438/Further%20Testing%20in%20R.pdf)
 
 **Skills:** Data Collecting, Data Cleaning, EDA (exploratory data analysis), Time Series Processing, Clustering Analysis, Eblow Method, Social Media Analysis(text analysis, network analysis), Hypothesis Testing, Hoteling T^2 Testing, Data Visualization.  
 
-**Technology:** Python (urllib, ssl, pandas, numpy, datetime, sklearn, Matplotlib, R(for Hoteling tesing only), Netlytic(for social media analysis only)
+**Technology:** Python (urllib, ssl, pandas, numpy, datetime, sklearn, Matplotlib), R(for Hoteling tesing only), Netlytic(for social media analysis only)
 
 **Results:** Find a clear chain of industries related to blockchain computing resouces, and other interesting facts.  
 
