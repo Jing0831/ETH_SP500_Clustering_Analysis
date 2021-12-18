@@ -1,0 +1,2 @@
+# ETH_SP500_Clustering_Analysis
+For this Python based project, I collected historical trading data for S&amp;P 500 companies and ETH-USD, and filtered 10,000 twitter posts, containing the words "ETH", "Ethereum". The project includes the following steps: collecting data,explore data, modify variables, setup model, and evaluate model. My hypothesis is that companies that are highly correlated will be affected by the same possitive or negative market information, and thus they should converge in market performance. I hope to find these companies.
