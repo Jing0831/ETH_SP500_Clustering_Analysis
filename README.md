@@ -2,9 +2,11 @@
 
 **Summary:** For this Python based project, I collected historical trading data for S&amp;P 500 companies and ETH-USD, and filtered 10,000 twitter posts, containing the words "ETH", "Ethereum". The project includes the following steps: collecting data,explore data, modify variables, setup model, and evaluate model. My hypothesis is that companies that are highly correlated will be affected by the same possitive or negative market information, and thus they should converge in market performance. I hope to find these companies.
 
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
+**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
 
-**Report:**
+**Presentation:** [`My Presentation for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Presentation_JY.pdf)   
+
+**Report:**[`My Report for ETH_SP500_Analysis.pdf`](https://github.com/Jing0831/ETH_SP500_Clustering_Analysis/blob/801bbe34b2361cbab5f4cdb3f58386264995c317/ETH_SP500_Analysis_Report_JY.pdf)
 
 **Skills:** Data Collecting, Data Cleaning, EDA (exploratory data analysis), Time Series Processing, Clustering Analysis, Eblow Method, Social Media Analysis(text analysis, network analysis), Hypothesis Testing, Hoteling T^2 Testing, Data Visualization.  
 
